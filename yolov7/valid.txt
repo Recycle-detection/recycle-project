@@ -1,8 +1,0 @@
-./recycle-6/valid/images/26_jpeg.rf.66be47176759af666c0c7ece2af04392.jpg
-./recycle-6/valid/images/40_jpg.rf.407d3fce68a49e90674eaa2e6e88a1d8.jpg
-./recycle-6/valid/images/25_jpeg.rf.e70af102579d384c353578561959fde4.jpg
-./recycle-6/valid/images/9_jpg.rf.27e786f6137602f921f2f471212ef71e.jpg
-./recycle-6/valid/images/4_jpg.rf.03d158fee14acc113d3e3d292a837af8.jpg
-./recycle-6/valid/images/16_jpg.rf.312c63df80818b591a291ca600097e75.jpg
-./recycle-6/valid/images/27_jpeg.rf.a0c31a9f0350885c71e9608ae2b6ad31.jpg
-./recycle-6/valid/images/58_jpg.rf.66030ffa624a59541e61b878d782ed94.jpg
