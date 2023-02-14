@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['-', 'Instant Noodle Cups', 'aluminum foil', 'can', 'disposable straw', 'glass bottle', 'paper', 'paper-cup', 'pet bottle', 'plastic-bag', 'plastic-bowl', 'plastic-cup', 'plastic-spoon', 'plastic-wrapper', 'styrofoam', 'trash', 'wooden chopsticks']
+
+roboflow:
+  workspace: jina-kim-wn9ky
+  project: recycle-tdliv
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jina-kim-wn9ky/recycle-tdliv/dataset/7
