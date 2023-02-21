@@ -6,3 +6,5 @@
 - yolov8 : yolov8 이용 모델링 
 - pipline : 파이프라인 작업물
 - 실행 : pipline 실행 파일
+- CNN: 오염여부 판단(이진분류)
+- Detection 후 Crop: yolov8로 객체 탐지 후 자르기
