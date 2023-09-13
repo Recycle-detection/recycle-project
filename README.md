@@ -22,5 +22,5 @@
 ---
 ## 최종 파일
 - ultralytics : yolov8 모듈
-- pipline : 최종 파이프라인
-- 실행 : pipline 실행 파일
+- pipline.py : 최종 파이프라인
+- 실행.py : pipline 실행 파일
